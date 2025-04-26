@@ -1,0 +1,2 @@
+[console_scripts]
+gemini_breakout = gemini_breakout.gemini_breakout:main
