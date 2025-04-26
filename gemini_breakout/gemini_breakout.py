@@ -37,7 +37,7 @@ STATE_PAUSED = 4
 STATE_GEMINI_TIP = 5
 
 # --- Gemini Integration ---
-GEMINI_MODEL_NAME = 'gemini-1.5-flash' # Using Flash for lower latency/cost
+GEMINI_MODEL_NAME = 'gemini-2.5-flash-preview-04-17' # Using Flash for lower latency/cost
 GEMINI_PROMPT = "Give me a helpful tip or interesting fact about the classic arcade game Breakout."
 GEMINI_GENERATING_MESSAGE = "Consulting Gemini..."
 GEMINI_ERROR_MESSAGE = "Error getting tip from Gemini."
