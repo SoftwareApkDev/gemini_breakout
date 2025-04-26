@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: gemini_breakout
-Version: 1.1
+Version: 1.2
 Summary: This package contains implementation of Breakout game with Google Gemini AI integrated into it.
 Home-page: https://github.com/SoftwareApkDev/gemini_breakout
 Author: SoftwareApkDev
